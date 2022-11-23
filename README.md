@@ -4,5 +4,5 @@
 
 | サービス名 | ユーザー名 | パスワード | 決済 | その他 |
 | --- | --- | --- | --- | --- |
-| Netflix | TEL | Syumi |  | 由美 |
+| Netflix | 電話番号 | Syumi |  | 由美 |
 | CLIP STUDIO PAINT DEBUT | ayami.0220.kyo@gmail.com | Kayami0220 |  | 彩未 |
